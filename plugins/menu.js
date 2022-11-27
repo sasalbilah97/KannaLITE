@@ -175,11 +175,11 @@ exports.run = {
 │⭔  ${isPrefix}runtime
 ╰───────────────❏
 
-© Powered by Faruqofc`
+© Powered by ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×`
       client.sendMessageModify(m.chat, captions, m, {
                title: '𝑲𝑨𝑵𝑵𝑨 𝑽 2.6.4',
                largeThumb: true,
-               thumbnail: await Func.fetchBuffer('https://telegra.ph/file/f261207c92571791a4007.jpg'),
+               thumbnail: await Func.fetchBuffer('https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg'),
                url: ''
             })
       } catch (e) {
